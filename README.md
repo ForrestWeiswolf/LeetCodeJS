@@ -19,7 +19,7 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 * Can I help out somehow?
 
   Of course! We currently don't have a contribution guide but we do have a small bit of [info](./Javascript/RELATIVE_PATH_HERE.js) about how we would like to keep the files and readme formatted. Once you add or edit a file, please put in a pull request!
-* Bake it till you make it? 
+* Bake it till you make it?
 
   FAKE IT TILL YOU MAKE IT
 * Is the readme upto date? Not right now! Still trying to work on this >-> For now please go into the javascript folder in case you don't see it correctly linked on the readme
@@ -70,20 +70,20 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 201 | [Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Medium ||
 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Javascript](./Javascript/231_powerOfTwo.js)  | _O(1)_ | _O(1)_ | Easy | LintCode |
 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_          | Medium         ||
-268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ |  _O(1)_ | Medium         | LintCode ||
+268| [Missing Number](https://leetcode.com/problems/missing-number/) | [Javascript](./Javascript/268_missingNumber.js)  | _O(n)_ |  _O(1)_ | Medium         | LintCode ||
 318| [Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction  | _O(n)_ ~ _O(n^2)_ |  _O(n)_ | Medium         || Bit Manipulation, Counting Sort, Pruning|
-342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Javascript](./Javascript/powerOfFour.js) | _O(1)_ | _O(1)_ | Easy | |
+342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Javascript](./Javascript/342_powerOfFour.js) | _O(1)_ | _O(1)_ | Easy | |
 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy | LintCode |
 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy | |
 393 | [UTF-8 Validation](https://leetcode.com/problems/utf-8-validation/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium | |
 401 | [Binary Watch](https://leetcode.com/problems/binary-watch/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy | |
 411 | [Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(2^n)_ | _O(n)_ | Hard | [📖](https://drive.google.com/open?id=1hnqixEkMF3u6jWgfLETWvYy5Pmu8nSry) |
 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
-461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy ||
+461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Javascript](./Javascript/461_hammingDistance.js) | _O(1)_ | _O(1)_ | Easy ||
 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_  on average | _O(1)_ | Medium ||
 477 | [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Medium ||
 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Easy ||
-693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy ||
+693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [Javascript](./Javascript/693_binaryNumberWithAlternatingBits.js) Under Construction | _O(1)_ | _O(1)_ | Easy ||
 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(1)_ | _O(1)_ | Easy ||
 
 ## Array
@@ -96,11 +96,11 @@ For those of you without LeetCode premium here's a [link](https://drive.google.c
 027 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Javascript](./Javascript/027_removeElement.js) Under Construction | _O(n)_      | _O(1)_         | Easy           ||
 031 | [Next Permutation](https://leetcode.com/problems/next-permutation/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_  | _O(1)_          | Medium         || Tricky
 041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_ | _O(1)_ | Hard         || Tricky
-048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)   | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_      | _O(1)_         | Medium         ||
-054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m * n)_    | _O(1)_         | Medium         ||
-059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ | _O(1)_      | Medium         ||
-066 | [Plus One](https://leetcode.com/problems/plus-one/)      | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction   | _O(n)_           | _O(1)_         | Easy           ||
-073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(m * n)_ | _O(1)_    | Medium         ||
+048 | [Rotate Image](https://leetcode.com/problems/rotate-image/)   | [Javascript](./Javascript/048_rotateImage.js) | _O(n^2)_      | _O(1)_         | Medium         ||
+054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Javascript](./Javascript/054_spiralMatrix.js) | _O(m * n)_    | _O(1)_         | Medium         ||
+059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Javascript](./Javascript/059_spiralMatrixII.js) | _O(n^2)_ | _O(1)_      | Medium         ||
+066 | [Plus One](https://leetcode.com/problems/plus-one/)      | [Javascript](./Javascript/066_plusOne.js)   | _O(n)_           | _O(1)_         | Easy           ||
+073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Javascript](./Javascript/073_setMatrixZeroes.js) | _O(m * n)_ | _O(1)_    | Medium         ||
 080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n)_       | _O(1)_         | Medium         || Two Pointers
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ | _O(1)_        | Easy           ||
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| [Javascript](./Javascript/RELATIVE_PATH_HERE.js) Under Construction | _O(n^2)_ | _O(1)_  | Easy           ||
